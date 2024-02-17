@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/eaks_it" target="blank"><img src="https://img.shields.io/twitter/follow/eaks_it?logo=twitter&style=for-the-badge" alt="eaks_it" /></a> </p>
 
-- 🔭 I’m currently working at **UvoTeam**
+- 🔭 I’m currently looking for work
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
